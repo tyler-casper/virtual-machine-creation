@@ -71,7 +71,7 @@ Now we can choose which architecture that we wish for our Virtual Machine to use
 
 ![image](https://github.com/user-attachments/assets/bc49a73d-a2a6-48e2-801c-415ab18d1704)
 
-From there, we will give our Virtual Machine a Username and Password. In this example, I've givne my Virtual Machine the Username "labuser".
+From there, we will give our Virtual Machine a Username and Password. In this example, I've given my Virtual Machine the Username "labuser".
 
 ![image](https://github.com/user-attachments/assets/60daf2d1-3c5e-4b1c-8f56-fecb551dd46b)
 
